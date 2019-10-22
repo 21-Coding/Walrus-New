@@ -1,0 +1,11 @@
+.clickable {
+  color: #0000EE;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+#walrus-showing {
+  display: none;
+}
